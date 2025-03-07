@@ -57,6 +57,8 @@ This project consists of:
 
 Below are the image of the **Gmail AI Reply Generator** extension in action:  
 ![image alt](https://github.com/Ace007-0/Gmail-AI-Reply-/blob/c78aa23708c1059034736fef8bcec572f577e206/ai_R1.png)
+![image alt](https://github.com/Ace007-0/Gmail-AI-Reply-/blob/958def1d2ec5d3ad7aa62462d068bd37e05999d0/ai_R2.png)
+![image alt](https://github.com/Ace007-0/Gmail-AI-Reply-/blob/958def1d2ec5d3ad7aa62462d068bd37e05999d0/ai_R3.png)
 
 
 ### 📢 **Contributions & Feedback**  
