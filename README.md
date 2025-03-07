@@ -62,6 +62,7 @@ Below are the image of the **Gmail AI Reply Generator** extension in action:
 
 
 ### 📢 **Contributions & Feedback**  
-We welcome contributions! Feel free to open issues or submit pull requests. If you have feedback or feature requests, let us know.  
+
+& yes !!! Feel free to open issues or submit pull requests. If you have feedback or feature requests, let me know.  
 
 🔗 **Happy Emailing with AI!**  
