@@ -53,6 +53,14 @@ This project consists of:
 2️⃣ Click the **AI Reply** button.  
 3️⃣ Choose a tone and generate a response.  
 
+## 📸 Screenshot  
+
+Below is an image of the **Gmail AI Reply Generator** extension in action:  
+
+![Gmail AI Reply Generator Screenshot](path/to/your/image.png)  
+
+*(Replace `path/to/your/image.png` with the actual path to your image.)*  
+
 ---
 
 ### 📢 **Contributions & Feedback**  
